@@ -1,7 +1,7 @@
 """
 COMP 163 - Project 2: Character Abilities Showcase
-Name: [Your Name Here]
-Date: [Date]
+Name: Clayan Ariaga
+Date: 11/07/2025
 
 AI Usage: AI helped with debugging, better explanation, and code errors such as syntax errors.
 """
